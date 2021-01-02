@@ -1,4 +1,3 @@
-/*
 //ctrl + alt + n : code runner에서 실행
 // tab <-> shift + tab
 console.log("송주영");
@@ -35,7 +34,7 @@ if(!null){
 if(!NaN){
     console.log('NaN');
 }
-*/
+
 //배열의 크기
 var arr = [1, 2, 3, 4, 5];
 console.log(arr.length);
